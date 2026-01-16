@@ -215,7 +215,7 @@
     <div class="profile-card">
         <div class="profile-visual">
             <div class="profile-img-container">
-                <img src="your-photo.jpg" alt="Cindy Hayford" class="profile-img" id="profileImage">
+                <img src="image_1.png" alt="Cindy Hayford" class="profile-img" id="profileImage">
             </div>
             <div class="cwc-logo-text">Central Wyoming College</div>
         </div>
